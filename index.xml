@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Minimax Decision Trees via Martingale Approximations</title>
+      <link>https://hungryzzy.github.io/publication/decisiontree/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/decisiontree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic-form Optimal Transport</title>
+      <link>https://hungryzzy.github.io/publication/qot/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/qot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample Path Properties of the Fractional Wiener--Weierstrass Bridge</title>
+      <link>https://hungryzzy.github.io/publication/ww2/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/ww2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tightness Analysis of First Passage Times of $d$-Dimensional Branching Random Walk</title>
       <link>https://hungryzzy.github.io/publication/brw2/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
@@ -29,7 +53,7 @@
     </item>
     
     <item>
-      <title>Empirical martingale projections via the adapted Wasserstein distance</title>
+      <title>Empirical Martingale Projections via the Adapted Wasserstein Distance</title>
       <link>https://hungryzzy.github.io/publication/mpd/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://hungryzzy.github.io/publication/mpd/</guid>
@@ -45,6 +69,14 @@
     </item>
     
     <item>
+      <title>Simultaneous Optimal Transport</title>
+      <link>https://hungryzzy.github.io/publication/transport1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://hungryzzy.github.io/publication/transport1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling Shortest Paths in Polymeric Networks using Spatial Branching Processes</title>
       <link>https://hungryzzy.github.io/publication/sp/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
@@ -53,7 +85,7 @@
     </item>
     
     <item>
-      <title>When do exact and powerful p-values and e-values exist?</title>
+      <title>On the Existence of Powerful P-Values and E-values for Composite Hypotheses</title>
       <link>https://hungryzzy.github.io/publication/p-e-values/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://hungryzzy.github.io/publication/p-e-values/</guid>
@@ -93,14 +125,6 @@
     </item>
     
     <item>
-      <title>Simultaneous Optimal Transport</title>
-      <link>https://hungryzzy.github.io/publication/transport1/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://hungryzzy.github.io/publication/transport1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Limit Theorem for Bernoulli Convolutions and the Φ-Variation of Functions in the Takagi Class</title>
       <link>https://hungryzzy.github.io/publication/fractal3/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -109,7 +133,7 @@
     </item>
     
     <item>
-      <title>A probabilistic approach to the Φ-variation of classical fractal functions with critical roughness</title>
+      <title>A Probabilistic Approach to the Φ-variation of Classical Fractal Functions with Critical Roughness</title>
       <link>https://hungryzzy.github.io/publication/fractal2/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://hungryzzy.github.io/publication/fractal2/</guid>
@@ -117,7 +141,7 @@
     </item>
     
     <item>
-      <title>On discrete-time self-similar processes with stationary increments</title>
+      <title>On Discrete-Time Self-Similar Processes With Stationary Increments</title>
       <link>https://hungryzzy.github.io/publication/self-similar1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://hungryzzy.github.io/publication/self-similar1/</guid>
@@ -125,7 +149,7 @@
     </item>
     
     <item>
-      <title>On the 𝑝th variation of a class of fractal functions</title>
+      <title>On the 𝑝th Variation of a Class of Fractal Functions</title>
       <link>https://hungryzzy.github.io/publication/fractal1/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://hungryzzy.github.io/publication/fractal1/</guid>

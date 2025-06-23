@@ -6,12 +6,20 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: eris.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>  张嘉懿 | PhD Student</p><br/>
+    <div>
+    <a href="mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D" title="email"><i class="fa-solid fa-envelope" style="font-size: 50px;"></i></a>
+
+    <a href="https://inspirehep.net/authors/1010907" title="Inspire HEP" rel="external nofollow noopener" target="_blank"><i class="ai ai-inspire" style="font-size: 50px;"></i></a>
+  
+    <a href="/al-folio/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss" style="font-size: 50px;"></i></a>
+  
+    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar" style="font-size: 50px;"></i></a>
+    </div>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

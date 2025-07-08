@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -9,7 +9,6 @@ profile:
   image: eris.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>  张嘉懿 | PhD Student</p><br/>
     <div>
     <a href="mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D" title="email"><i class="fa-solid fa-envelope" style="font-size: 50px;"></i></a>
 
@@ -35,8 +34,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am a fourth-year Ph.D. student in Computer Science at [Stanford University](https://engineering.stanford.edu/), advised by Prof. [Doug L. James](https://graphics.stanford.edu/~djames/). My research has been generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details), a [Roblox Graduate Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) and an [Nvidia Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have a broad interest in computer graphics, including physical simulation, geometry processing and computational design. Currently, my research primarily focuses on developing intelligent algorithms, models and tools for enhancing user creativity and productivity in design, animation and simulation.
+
+
+Before, I completed my undergraduate studies in computer science and math at the [University of Toronto](https://www.utoronto.ca/), advised by Prof. [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/). During my time there, I was fortunate to do research with Profs. [Marc Alexa](https://www.cg.tu-berlin.de/team/prof-dr-marc-alexa/), [David Levin](http://142.93.146.228/researchdb/), [Fanny Chevalier](http://fannychevalier.net/) and [Ken Jackson](http://www.cs.toronto.edu/~krj/) on topics spanning computer graphics, human-computer interaction, and numerical analysis.  I also had wonderful internships at [Adobe Research](https://research.adobe.com/), where I began collaborating closely with my mentor Dr. [Danny Kaufman](http://dannykaufman.io/).
+
+Email: eriszhan [at] stanford [dot] edu

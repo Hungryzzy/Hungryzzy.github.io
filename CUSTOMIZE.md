@@ -114,6 +114,10 @@ If the entry matches one form of the last names and the first names, it will be 
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
+"zhang":
+  - firstname: ["Jiayi Eris"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+
 "rosen":
   - firstname: ["Nathan", "N."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen

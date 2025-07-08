@@ -27,7 +27,7 @@
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+          <img class="preview rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
           {%
@@ -35,7 +35,7 @@
             loading="eager"
             path=entry_path
             sizes = "200px"
-            class="preview z-depth-1 rounded"
+            class="preview rounded"
             zoomable=true
             avoid_scaling=true
             alt=entry.preview
@@ -46,7 +46,7 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div style="position: relative; left: 110px;" id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div style="position: relative; left: 160px;" id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->

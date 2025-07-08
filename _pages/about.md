@@ -6,18 +6,24 @@ subtitle:
 
 profile:
   align: right
-  image: eris.jpeg
+  image: eris.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <div>
-    <a href="mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D" title="email"><i class="fa-solid fa-envelope" style="font-size: 50px;"></i></a>
+    <a href="mailto:%65%72%69%73%7A%68%61%6E@%73%74%61%6E%66%6F%72%64.%65%64%75" title="Email Me">
+      <i class="fa-solid fa-envelope" style="font-size: 49px;"></i></a>
 
-    <a href="https://inspirehep.net/authors/1010907" title="Inspire HEP" rel="external nofollow noopener" target="_blank"><i class="ai ai-inspire" style="font-size: 50px;"></i></a>
+    <a href="https://www.linkedin.com/in/jiayi-eris-zhang-88b895158/" title="Inspire HEP" rel="external nofollow noopener" target="_blank"><i class="ai ai-inspire" style="font-size: 49px;"></i></a>
   
-    <a href="/al-folio/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss" style="font-size: 50px;"></i></a>
-  
-    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar" style="font-size: 50px;"></i></a>
+    <a href="https://github.com/ErisZhang" title="GitHub" rel="external nofollow noopener" target="_blank">
+      <i class="fab fa-github" style="font-size: 49px;"></i></a>
+
+    <a href="https://scholar.google.com/citations?user=rZfDdGsAAAAJ&hl=en" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar" style="font-size: 49px;"></i></a>
+
+    <a href="https://x.com/ErisZhang0326" title="Twitter" rel="external nofollow noopener" target="_blank">
+      <i class="fab fa-twitter" style="font-size: 49px;"></i></a>
     </div>
+
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -34,7 +40,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a fourth-year Ph.D. student in Computer Science at [Stanford University](https://engineering.stanford.edu/), advised by Prof. [Doug L. James](https://graphics.stanford.edu/~djames/). My research has been generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details), a [Roblox Graduate Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) and an [Nvidia Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025).
+Hi! I am a fourth-year Ph.D. student in Computer Science at [Stanford University](https://engineering.stanford.edu/), advised by Prof. [Doug L. James](https://graphics.stanford.edu/~djames/). My research has been generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details), a [Roblox Graduate Fellowship](https://www.gem.com/lp/roblox/ec-roblox-fellows) and an [NVIDIA Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025).
 
 
 I have a broad interest in computer graphics, including physical simulation, geometry processing and computational design. Currently, my research primarily focuses on developing intelligent algorithms, models and tools for enhancing user creativity and productivity in design, animation and simulation.

@@ -730,11 +730,11 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-        width: 230px;
+        width: 240px;
       }
 
       .abbr {
-        margin-bottom: 2.0rem;
+        margin-bottom: 2.4rem;
 
         abbr {
           display: inline-block;
@@ -758,7 +758,8 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500;
+        font-size: 1.25rem;
       }
 
       .author {

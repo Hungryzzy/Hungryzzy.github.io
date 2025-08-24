@@ -23,3 +23,16 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+.pub-category {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.25em 0.6em;
+  margin-left: 0.4em;
+  border-radius: 0.35rem;
+  background-color: #007bff; /* default blue */
+  color: #fff;
+}

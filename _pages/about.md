@@ -31,4 +31,4 @@ Email: zzy [at] stanford [dot] edu. [Here](https://scholar.google.com/citations?
 
 
 <p><span class="badge badge-danger">Job Market</span>
-<span style="color:red">I’m going on the academic job market in 2025–2026.</span>
+<span style="color:red">I’m going on the job market in 2025–2026.</span>

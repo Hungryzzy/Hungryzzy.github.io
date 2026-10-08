@@ -23,7 +23,7 @@ latest_posts:
 
 Hi! I am a postdoctoral associate in the Laboratory for Information and Decision Systems (LIDS) at Massachusetts Institute of Technology, working with [Alexander Rakhlin](https://www.mit.edu/~rakhlin/). In 2026, I completed my PhD in Mathematics at Stanford University, advised by [Jose H. Blanchet](https://joseblanchet.com/).
 
- I am broadly interested in probability theory and its applications. My recent interest lies in branching particle systems (or more general log-correlated fields) and their applications in polymer physics and mathematical biology. I also work on optimal transport and applications to statistics, economics, and operations research. Other topics I have been actively working on include decision trees and Gaussian processes.
+ I am broadly interested in probability theory and its applications. My recent interest lies in branching particle systems (or more general log-correlated fields) and their applications in polymer physics and mathematical biology. I also work on optimal transport and applications to statistics, economics, and operations research. Other topics I have been actively working on include decision trees, Gaussian processes, and hypothesis testing with e-values.
 
 Before, I received my bachelor’s degree in Pure Mathematics from University of Waterloo, where I was fortunate to work with Profs. [Alexander Schied](https://uwaterloo.ca/scholar/aschied), [Yi Shen](https://sites.google.com/site/yishenenglish/), and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/).
 

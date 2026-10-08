@@ -27,8 +27,4 @@ Hi! I am a fifth-year Ph.D. student in Mathematics at Stanford University, advis
 
 Before, I received my bachelor’s degree in Pure Mathematics from University of Waterloo, where I was fortunate to work with Profs. [Alexander Schied](https://uwaterloo.ca/scholar/aschied), [Yi Shen](https://sites.google.com/site/yishenenglish/), and [Ruodu Wang](https://sas.uwaterloo.ca/~wang/).
 
-Email: zzy [at] stanford [dot] edu. [Here](https://scholar.google.com/citations?user=Cx-URm4AAAAJ&hl=en) is my Google scholar page.
-
-
-<p><span class="badge badge-danger">Job Market</span>
-<span style="color:red">I’m going on the academic job market in 2025–2026.</span>
+Email: zzyzzy [at] mit [dot] edu. [Here](https://scholar.google.com/citations?user=Cx-URm4AAAAJ&hl=en) is my Google scholar page.

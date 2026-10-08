@@ -21,7 +21,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a fifth-year Ph.D. student in Mathematics at Stanford University, advised by Prof. [Jose H. Blanchet](https://joseblanchet.com/). In the academic year 2025--2026, my research is generously supported by a Jump Trading Fellowship.
+Hi! I am a postdoctoral associate in the Laboratory for Information and Decision Systems (LIDS) at Massachusetts Institute of Technology, working with [Alexander Rakhlin](https://www.mit.edu/~rakhlin/). In 2026, I completed my PhD in Mathematics at Stanford University, advised by [Jose H. Blanchet](https://joseblanchet.com/).
 
  I am broadly interested in probability theory and its applications. My recent interest lies in branching particle systems (or more general log-correlated fields) and their applications in polymer physics and mathematical biology. I also work on optimal transport and applications to statistics, economics, and operations research. Other topics I have been actively working on include decision trees and Gaussian processes.
 
